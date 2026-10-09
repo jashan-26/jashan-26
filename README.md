@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**jashan-26/jashan-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Jashanpreet Kaur</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  B.Tech Artificial Intelligence & Machine Learning | CEC
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/jashan-26">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/jashanpreet-k-13a326340/">LinkedIn</a>
+</p>
+
+---
+
+## About
+
+I build AI-driven applications focused on real-world problem-solving, intelligent automation, and data-driven insights.
+
+---
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [Cyclone Intensity Classifier](https://github.com/jashan-26) | Deep learning-based classification of tropical cyclone intensity using satellite imagery. |
+| [SmartSpend AI](https://github.com/jashan-26) | Personal expense analysis and budgeting application designed to provide spending insights. |
+| [Autonomous Social Media Content Creator & Scheduler](https://github.com/jashan-26) | AI-powered application for generating and scheduling social media content. |
+| [Library Management Project](https://github.com/jashan-26) | Application for managing library operations and records. |
+
+---
+
+<p align="center">
+  <i>Turning ideas into practical solutions.</i>
+</p>
