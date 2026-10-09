@@ -15,7 +15,8 @@
 
 ## About
 
-I build AI-driven applications focused on real-world problem-solving, intelligent automation, and data-driven insights.
+Focused on developing intelligent solutions through Machine Learning, Deep Learning, and Generative AI. 
+Experienced in building projects across diverse domains, with an interest in transforming ideas into practical, data-driven applications.
 
 ---
 
