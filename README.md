@@ -1,5 +1,7 @@
- <p align="center">
-  <img src="./assets/readme-preview.png" width="100%" alt="Jashanpreet Kaur - Retro Portfolio"/>
+<p align="center">
+  <img src="./assets/readme-preview.png"
+       width="100%"
+       alt="Jashanpreet Kaur - Retro Portfolio"/>
 </p>
 
 <h1 align="center">Jashanpreet Kaur <code>_</code></h1>
