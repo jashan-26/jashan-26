@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="190" viewBox="0 0 292 190" fill="none">
+  <!-- Card Outline -->
+  <rect x="2" y="2" width="288" height="186" rx="12" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="2"/>
+  
+  <!-- Icon in Pink Box -->
+  <rect x="14" y="14" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <g transform="translate(22, 22)">
+    <path d="M14 6C8 6 4 11 4 16C4 21 8 26 14 26C12 23 11 19 14 16C16 14 19 14 21 16C23 18 21 21 18 22" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+    <circle cx="14" cy="16" r="2.5" fill="#25212B"/>
+  </g>
+  <!-- External Link Icon ↗ -->
+  <path d="M268 18H276V26M276 18L267 27" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Project Title (2 lines) -->
+  <text x="70" y="26" font-family="'Courier New', Courier, Consolas, monospace" font-size="12" font-weight="bold" fill="#25212B">
+    <tspan x="70" y="26">Cyclone Intensity</tspan>
+    <tspan x="70" y="42">Classifier</tspan>
+  </text>
+  <!-- Description -->
+  <text x="14" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#584D60" font-weight="500">
+    <tspan x="14" y="80">AI/ML system to classify tropical</tspan>
+    <tspan x="14" y="98">cyclone patterns using satellite data.</tspan>
+  </text>
+  
+  <!-- Tech Tag Pills -->
+  <g transform="translate(14, 138)">
+    <rect x="0" y="0" width="72" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+    <text x="12" y="16" font-family="'Courier New', Courier, Consolas, monospace" font-size="11" font-weight="bold" fill="#25212B">Python</text>
+    <rect x="80" y="0" width="80" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+    <text x="92" y="16" font-family="'Courier New', Courier, Consolas, monospace" font-size="11" font-weight="bold" fill="#25212B">PyTorch</text>
+    <rect x="168" y="0" width="120" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+    <text x="180" y="16" font-family="'Courier New', Courier, Consolas, monospace" font-size="11" font-weight="bold" fill="#25212B">EfficientNet</text>
+  </g>
+</svg>

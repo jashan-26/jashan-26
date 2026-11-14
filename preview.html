@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Profile Preview</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .markdown-body {
+      max-width: 920px;
+      width: 100%;
+    }
+    table {
+      border-collapse: collapse;
+      border: none;
+    }
+    table td {
+      border: none;
+      padding: 4px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    a {
+      text-decoration: none;
+      display: inline-block;
+      transition: transform 0.15s ease;
+    }
+    a:hover {
+      transform: translateY(-2px);
+    }
+    .nav-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin: 14px 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="markdown-body">
+
+  <!-- Top Banner -->
+  <p align="center" style="margin-bottom: 12px;">
+    <img src="./assets/readme-banner.png" width="100%" alt="Jashanpreet Kaur — Jashanpreet.exe"/>
+  </p>
+
+  <!-- Navigation Buttons -->
+  <p align="center" style="margin-bottom: 16px;">
+    <a href="https://portfolio.example.com">
+      <img src="./assets/btn-portfolio.svg" height="42" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jashanpreet-k-13a326340/">
+      <img src="./assets/btn-linkedin.svg" height="42" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/jashan-26">
+      <img src="./assets/btn-github.svg" height="42" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- Stats Bar -->
+  <p align="center" style="margin-bottom: 20px;">
+    <img src="./assets/stats-bar.svg" width="100%" alt="Stats Bar" />
+  </p>
+
+  <!-- Main Section: Two Columns -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px;">
+    <tr valign="top">
+      <!-- Left Column: about_me.txt & tech_stack.exe -->
+      <td width="37%" valign="top" style="padding-right: 12px;">
+        <img src="./assets/card-about-me.svg" width="100%" alt="about_me.txt" style="margin-bottom: 12px;" />
+        <img src="./assets/card-tech-stack.svg" width="100%" alt="tech_stack.exe" />
+      </td>
+      <!-- Right Column: featured_projects -->
+      <td width="63%" valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="2" style="padding-bottom: 6px;">
+              <img src="./assets/header-featured-projects.svg" width="100%" alt="featured_projects" />
+            </td>
+          </tr>
+          <tr>
+            <td width="50%" style="padding-right: 4px; padding-bottom: 8px;">
+              <a href="https://github.com/jashan-26/Autonomous-Social-Media-Content-Creator-Scheduler">
+                <img src="./assets/card-project-1.svg" width="100%" alt="Autonomous Social Media Content Creator & Scheduler" />
+              </a>
+            </td>
+            <td width="50%" style="padding-left: 4px; padding-bottom: 8px;">
+              <a href="https://github.com/jashan-26/SmartSpend-AI">
+                <img src="./assets/card-project-2.svg" width="100%" alt="SmartSpend AI" />
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td width="50%" style="padding-right: 4px;">
+              <a href="https://github.com/jashan-26/cyclone-intensity-classifier">
+                <img src="./assets/card-project-3.svg" width="100%" alt="Cyclone Intensity Classifier" />
+              </a>
+            </td>
+            <td width="50%" style="padding-left: 4px;">
+              <a href="https://github.com/jashan-26/MedSight">
+                <img src="./assets/card-project-4.svg" width="100%" alt="MedSight" />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Bottom Bar: Currently Exploring -->
+  <p align="center" style="margin-top: 16px;">
+    <img src="./assets/footer-bar.svg" width="100%" alt="Currently Exploring" />
+  </p>
+
+</div>
+
+</body>
+</html>

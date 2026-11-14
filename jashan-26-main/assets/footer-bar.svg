@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" fill="none">
+  <!-- Pill Container -->
+  <rect x="2" y="2" width="896" height="48" rx="24" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+
+  <!-- Left: Currently Exploring Pink Badge -->
+  <g transform="translate(10, 8)">
+    <rect x="0" y="0" width="186" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.8"/>
+    <!-- Star icon -->
+    <path d="M18 10L20 14L24 14.5L21 17.5L22 22L18 19.5L14 22L15 17.5L12 14.5L16 14L18 10Z" fill="#25212B"/>
+    <text x="30" y="21" font-family="'Courier New', Courier, Consolas, monospace" font-size="13" font-weight="bold" fill="#25212B">Currently Exploring</text>
+  </g>
+
+  <!-- Center Text -->
+  <g transform="translate(216, 29)">
+    <text font-family="'Courier New', Courier, Consolas, monospace" font-size="13" font-weight="bold" fill="#25212B">
+      AI/ML <tspan fill="#685B72">|</tspan> Deep Learning <tspan fill="#685B72">|</tspan> Generative AI <tspan fill="#685B72">|</tspan> DSA <tspan fill="#685B72">|</tspan> System Design
+    </text>
+  </g>
+
+  <!-- Right: Battery & Sleeping Cat -->
+  <g transform="translate(740, 11)">
+    <!-- Battery Level Indicator -->
+    <g transform="translate(0, 7)">
+      <rect x="0" y="0" width="58" height="16" rx="4" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <rect x="3" y="3" width="9" height="10" rx="1" fill="#FCD2DC"/>
+      <rect x="14" y="3" width="9" height="10" rx="1" fill="#FCD2DC"/>
+      <rect x="25" y="3" width="9" height="10" rx="1" fill="#FCD2DC"/>
+      <rect x="36" y="3" width="9" height="10" rx="1" fill="#FCD2DC"/>
+      <rect x="47" y="3" width="8" height="10" rx="1" fill="#F9EEF1"/>
+      <!-- Battery terminal -->
+      <path d="M58 5H60V11H58" fill="#25212B"/>
+    </g>
+
+    <!-- Sleeping Cat with z z z -->
+    <g transform="translate(74, -2)">
+      <!-- zzz text -->
+      <text x="-12" y="8" font-family="'Courier New', Courier, Consolas, monospace" font-size="11" font-weight="bold" fill="#25212B">z<tspan font-size="9">z</tspan><tspan font-size="7">z</tspan></text>
+      <!-- Cat Body -->
+      <ellipse cx="28" cy="18" rx="20" ry="12" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <!-- Cat Head -->
+      <ellipse cx="14" cy="16" rx="10" ry="9" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <!-- Ears -->
+      <path d="M8 10L11 4L14 10H8Z" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+      <path d="M14 9L17 4L19 10H14Z" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+      <path d="M9 9L11 6L13 9H9Z" fill="#FCD2DC"/>
+      <path d="M15 8L17 6L18 8H15Z" fill="#FCD2DC"/>
+      <!-- Sleeping Eyes (- -) -->
+      <path d="M9 16C10 17 11 17 12 16" stroke="#25212B" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+      <path d="M14 16C15 17 16 17 17 16" stroke="#25212B" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+      <!-- Pink Blush -->
+      <ellipse cx="8" cy="18" rx="1.5" ry="1" fill="#FCD2DC"/>
+      <!-- Tail wrapped around -->
+      <path d="M46 17C48 20 44 24 38 23" stroke="#25212B" stroke-width="2" stroke-linecap="round" fill="none"/>
+    </g>
+  </g>
+</svg>
