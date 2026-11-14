@@ -1,73 +1,93 @@
 <p align="center">
-  <img src="./assets/readme-banner.png" width="100%" alt="Jashanpreet Kaur — Jashanpreet.exe"/>
+  <img src="./assets/banner.png" width="100%" alt="Jashanpreet Kaur — Jashanpreet.exe"/>
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="./assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jashanpreet-k-13a326340/"><img src="./assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jashan-26"><img src="./assets/btn-github.svg" height="42" alt="GitHub"/></a>
+  <a href="#about-me"><img src="./assets/nav_btn_about.png" height="38" alt="About Me"/></a>&nbsp;
+  <a href="#featured-projects"><img src="./assets/nav_btn_projects.png" height="38" alt="Featured Projects"/></a>&nbsp;
+  <a href="#tech-stack"><img src="./assets/nav_btn_tech.png" height="38" alt="Tech Stack"/></a>&nbsp;
+  <a href="#contact"><img src="./assets/nav_btn_contact.png" height="38" alt="Contact"/></a>
 </p>
 
+<a id="about-me"></a>
 <p align="center">
-  <img src="./assets/stats-bar.svg" width="100%" alt="Stats Bar"/>
+  <img src="./assets/window_about.png" width="100%" alt="About Me"/>
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr valign="top">
-    <!-- Left Column: about_me.txt & tech_stack.exe -->
-    <td width="37%" valign="top">
-      <img src="./assets/card-about-me.svg" width="100%" alt="about_me.txt"/>
-      <br/><br/>
-      <img src="./assets/card-tech-stack.svg" width="100%" alt="tech_stack.exe"/>
+<a id="featured-projects"></a>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2">
+      <img src="./assets/proj_header.png" width="100%" alt="Featured Projects Header"/>
     </td>
-    <td width="3%"></td>
-    <!-- Right Column: featured_projects -->
-    <td width="60%" valign="top">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td colspan="2" style="padding-bottom: 6px;">
-            <img src="./assets/header-featured-projects.svg" width="100%" alt="featured_projects"/>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" style="padding-right: 4px; padding-bottom: 8px;">
-            <a href="https://github.com/jashan-26/Autonomous-Social-Media-Content-Creator-Scheduler">
-              <img src="./assets/card-project-1.svg" width="100%" alt="Autonomous Social Media Content Creator & Scheduler"/>
-            </a>
-          </td>
-          <td width="50%" style="padding-left: 4px; padding-bottom: 8px;">
-            <a href="https://github.com/jashan-26/SmartSpend-AI">
-              <img src="./assets/card-project-2.svg" width="100%" alt="SmartSpend AI"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" style="padding-right: 4px;">
-            <a href="https://github.com/jashan-26/cyclone-intensity-classifier">
-              <img src="./assets/card-project-3.svg" width="100%" alt="Cyclone Intensity Classifier"/>
-            </a>
-          </td>
-          <td width="50%" style="padding-left: 4px;">
-            <a href="https://github.com/jashan-26/MedSight">
-              <img src="./assets/card-project-4.svg" width="100%" alt="MedSight"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/jashan-26/Autonomous-Social-Media-Content-Creator-Scheduler">
+        <img src="./assets/card_social_scheduler.png" width="100%" alt="Autonomous Social Media Content Creator & Scheduler"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/jashan-26/SmartSpend-AI">
+        <img src="./assets/card_smartspend.png" width="100%" alt="SmartSpend AI"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/jashan-26/cyclone-intensity-classifier">
+        <img src="./assets/card_cyclone.png" width="100%" alt="Cyclone Intensity Classifier"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/jashan-26/MedSight">
+        <img src="./assets/card_medsight.png" width="100%" alt="MedSight"/>
+      </a>
     </td>
   </tr>
 </table>
 
-<p align="center" style="margin-top: 18px;">
-  <img src="./assets/footer-bar.svg" width="100%" alt="Currently Exploring"/>
+<a id="tech-stack"></a>
+<p align="center">
+  <img src="./assets/window_tech.png" width="100%" alt="Tech Stack"/>
 </p>
+
+<a id="contact"></a>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="5">
+      <img src="./assets/contact_header.png" width="100%" alt="Contact"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="41%">
+      <img src="./assets/contact_text.png" width="100%" alt="Let's connect and build something impactful together."/>
+    </td>
+    <td width="15.4%">
+      <a href="YOUR_PORTFOLIO_URL">
+        <img src="./assets/contact_btn_portfolio.png" width="100%" alt="Portfolio"/>
+      </a>
+    </td>
+    <td width="15.7%">
+      <a href="https://www.linkedin.com/in/jashanpreet-k-13a326340/">
+        <img src="./assets/contact_btn_linkedin.png" width="100%" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="13.2%">
+      <a href="https://github.com/jashan-26">
+        <img src="./assets/contact_btn_github.png" width="100%" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="14.7%">
+      <img src="./assets/contact_cat.png" width="100%" alt="Sleeping Cat"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <details>
-<summary><b>📂 Click to expand: Research, Leadership &amp; Recognitions</b></summary>
+<summary><b>📂 Click to expand: Inventions, Leadership &amp; Recognitions</b></summary>
 <br/>
 
 ### § 01 — Inventions &amp; Research Concepts
@@ -102,7 +122,7 @@
 
 ---
 
-### § 04 — Let's Connect!
+### § 04 — Let's Connect
 
 <p align="center">
   Interested in AI/ML solutions, research, or hackathon collaborations?<br/>
