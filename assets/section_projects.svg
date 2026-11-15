@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none">
+  <rect width="1200" height="400" fill="#1A1826"/>
+
+  <!-- Window frame -->
+  <rect x="16" y="16" width="1168" height="368" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="42" rx="16" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+
+  <!-- Dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+
+  <!-- Folder icon -->
+  <g transform="translate(104, 26)">
+    <path d="M1 3C1 1.9 1.9 1 3 1H7L9 3H17C18.1 3 19 3.9 19 5V15C19 16.1 18.1 17 17 17H3C1.9 17 1 16.1 1 15V3Z" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="134" y="43" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#25212B">Featured Projects</text>
+
+  <!-- Window controls -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  <!-- 2x2 project card grid -->
+  <g transform="translate(36,68)">
+    <rect x="0" y="0" width="540" height="142" rx="12" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.8"/>
+    <!-- Icon box -->
+    <rect x="12" y="12" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+    <g transform="translate(20, 20)">
+      <rect x="2" y="2" width="26" height="18" rx="2" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <path d="M6 14L11 9L16 13L24 6" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M12 20V24M8 24H16" stroke="#25212B" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    <!-- Link icon -->
+    <path d="M516 16H524V24M524 16L514 26" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="28" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#25212B">
+      <tspan x="70" y="28">Autonomous Social Media</tspan>
+      <tspan x="70" y="46">Content Creator &amp; Scheduler</tspan>
+    </text>
+    <text font-family="-apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#584D60" font-weight="500">
+      <tspan x="14" y="82">AI-powered content creation and</tspan>
+      <tspan x="14" y="98">scheduling using Generative AI.</tspan>
+    </text>
+    <g transform="translate(0, 114)">
+      <rect x="14" y="0" width="72" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="26" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Python</text>
+      <rect x="92" y="0" width="96" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="104" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Streamlit</text>
+      <rect x="194" y="0" width="64" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="206" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">GenAI</text>
+    </g>
+  </g>
+
+  <g transform="translate(596,68)">
+    <rect x="0" y="0" width="540" height="142" rx="12" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.8"/>
+    <!-- Icon box -->
+    <rect x="12" y="12" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+    <g transform="translate(22, 20)">
+      <ellipse cx="12" cy="10" rx="10" ry="4" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <path d="M2 10V17C2 19.5 6.5 22 12 22C17.5 22 22 19.5 22 17V10" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <ellipse cx="18" cy="18" rx="8" ry="3.5" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+    </g>
+    <!-- Link icon -->
+    <path d="M516 16H524V24M524 16L514 26" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="38" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#25212B">SmartSpend AI</text>
+    <text font-family="-apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#584D60" font-weight="500">
+      <tspan x="14" y="82">Personal expense analyzer and</tspan>
+      <tspan x="14" y="98">budgeting application with ML.</tspan>
+    </text>
+    <g transform="translate(0, 114)">
+      <rect x="14" y="0" width="72" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="26" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Python</text>
+      <rect x="92" y="0" width="152" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="104" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Machine Learning</text>
+    </g>
+  </g>
+
+  <g transform="translate(36,222)">
+    <rect x="0" y="0" width="540" height="142" rx="12" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.8"/>
+    <!-- Icon box -->
+    <rect x="12" y="12" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+    <g transform="translate(20, 20)">
+      <path d="M16 6C10 6 5 11 5 17C5 23 10 28 16 28C14 25 13 21 16 17C18 15 21 15 23 17C25 19 23 23 20 24" stroke="#25212B" stroke-width="2" stroke-linecap="round" fill="none"/>
+      <circle cx="16" cy="17" r="3" fill="#25212B"/>
+    </g>
+    <!-- Link icon -->
+    <path d="M516 16H524V24M524 16L514 26" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="28" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#25212B">
+      <tspan x="70" y="28">Cyclone Intensity</tspan>
+      <tspan x="70" y="46">Classifier</tspan>
+    </text>
+    <text font-family="-apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#584D60" font-weight="500">
+      <tspan x="14" y="82">AI/ML system to classify tropical</tspan>
+      <tspan x="14" y="98">cyclone patterns using satellite data.</tspan>
+    </text>
+    <g transform="translate(0, 114)">
+      <rect x="14" y="0" width="72" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="26" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Python</text>
+      <rect x="92" y="0" width="80" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="104" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">PyTorch</text>
+      <rect x="178" y="0" width="120" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="190" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">EfficientNet</text>
+    </g>
+  </g>
+
+  <g transform="translate(596,222)">
+    <rect x="0" y="0" width="540" height="142" rx="12" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.8"/>
+    <!-- Icon box -->
+    <rect x="12" y="12" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+    <g transform="translate(20, 20)">
+      <rect x="2" y="2" width="26" height="18" rx="2" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <path d="M15 6V16M10 11H20" stroke="#25212B" stroke-width="2" stroke-linecap="round"/>
+      <path d="M12 20V24M8 24H16" stroke="#25212B" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    <!-- Link icon -->
+    <path d="M516 16H524V24M524 16L514 26" stroke="#25212B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="38" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#25212B">MedSight</text>
+    <text font-family="-apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#584D60" font-weight="500">
+      <tspan x="14" y="82">Deep learning-based medical image</tspan>
+      <tspan x="14" y="98">screening with Grad-CAM explanations.</tspan>
+    </text>
+    <g transform="translate(0, 114)">
+      <rect x="14" y="0" width="72" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="26" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Python</text>
+      <rect x="92" y="0" width="128" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="104" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Deep Learning</text>
+      <rect x="226" y="0" width="88" height="24" rx="12" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.2"/>
+      <text x="238" y="16" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#25212B">Grad-CAM</text>
+    </g>
+  </g>
+
+  <!-- Sparkles -->
+  <g transform="translate(1120,80)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.8"/>
+  </g>
+  <g transform="translate(1140,360)">
+    <path d="M4.0 0 L4.8 3.2 L8 4.0 L4.8 4.8 L4.0 8 L3.2 4.8 L0 4.0 L3.2 3.2 Z" fill="#A8E6CF" opacity="0.8"/>
+  </g>
+</svg>
