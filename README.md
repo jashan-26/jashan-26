@@ -2,9 +2,9 @@
   <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="100%">
 </p>
 
-<h1 align="center">Heyyy 👋🏻, I'm Jashanpreet</h1>
+<h1 align="center">Heyyy, I'm Jashanpreet</h1>
 
-<h3 align="center">AI &amp; Machine Learning Engineer | Problem Solver</h3>
+<h3 align="center">AI &amp; Machine Learning Engineer | Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+Solutions+for+Real-World+Impact;%3E+AI+%26+Machine+Learning+Undergrad;%3E+Deep+Learning+%26+Computer+Vision;%3E+Patent-Filed+Innovations" alt="Typing SVG" />
