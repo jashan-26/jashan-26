@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="100%">
+  <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="70%">
 </p>
 
-<h1 align="center">Heyyy, I'm Jashanpreet</h1>
+<h1 align="center">Heyyy, I'm Jashanpreet ✨</h1>
 
 <h3 align="center">AI &amp; Machine Learning Engineer | Developer</h3>
 
@@ -10,11 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+Solutions+for+Real-World+Impact;%3E+AI+%26+Machine+Learning+Undergrad;%3E+Deep+Learning+%26+Computer+Vision;%3E+Patent-Filed+Innovations" alt="Typing SVG" />
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me </h2>
 
 <img align="right" src="./assets/astro.png" width="280" alt="Astro Illustration"/>
 
-So here's the brief ☕ I'm an AI & Machine Learning undergraduate, researcher, and problem solver who loves taking ambitious ideas and turning them into practical, real-world solutions.
+So here's the brief 💫 I'm an AI & Machine Learning undergraduate, researcher, and problem solver who loves taking ambitious ideas and turning them into practical, real-world solutions.
 
 I build end-to-end deep learning systems, computer vision pipelines, and patent-filed biomedical and environmental architectures. Whether it's self-sustaining eco-intelligence systems, non-ionizing acoustic cranial trauma screening, or rocket propulsion telemetry diagnostics, I'm always drawn to tough problems at the edge of science and software.
 
