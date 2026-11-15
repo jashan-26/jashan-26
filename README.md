@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="85%">
+  <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="95%">
 </p>
 
 <h1 align="center">Heyyy, I'm Jashanpreet ✨</h1>
