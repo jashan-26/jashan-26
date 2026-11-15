@@ -2,7 +2,7 @@
   <img src="./assets/header-astronaut.gif" alt="Jashanpreet Kaur Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋🏻, Imma Jashanpreet</h1>
+<h1 align="center">Heyyy 👋🏻, I'm Jashanpreet</h1>
 
 <h3 align="center">AI &amp; Machine Learning Engineer | Problem Solver</h3>
 
