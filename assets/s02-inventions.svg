@@ -15,7 +15,7 @@
           <ellipse cx="9" cy="9" rx="10" ry="4" fill="none" stroke="#25212B" stroke-width="1.2" transform="rotate(30 9 9)"/>
           <ellipse cx="9" cy="9" rx="10" ry="4" fill="none" stroke="#25212B" stroke-width="1.2" transform="rotate(-30 9 9)"/>
         </g>
-  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">§ 02  Inventions & Patents</text>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">§ 02  Inventions &amp; Patents</text>
   <!-- Window buttons [-] [□] [✕] -->
   <g transform="translate(1104, 30)">
     <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>

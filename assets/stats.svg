@@ -37,7 +37,7 @@
     <g transform="translate(60, 80)">
       <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">03</text>
       <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Patent Applications</text>
-      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">filed & innovations</text>
+      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">filed &amp; innovations</text>
     </g>
     <g transform="translate(350, 80)">
       <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">04</text>
@@ -46,7 +46,7 @@
     </g>
     <g transform="translate(640, 80)">
       <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">03</text>
-      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Hackathons & Honours</text>
+      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Hackathons &amp; Honours</text>
       <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">SIH finalist · SheFi S16</text>
     </g>
     <g transform="translate(930, 80)">

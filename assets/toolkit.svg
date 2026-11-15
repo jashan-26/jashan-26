@@ -51,7 +51,7 @@
 
     <g transform="translate(48, 142)">
       <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
-      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">ML & AI</text>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">ML &amp; AI</text>
     </g>
     
       <rect x="240.0" y="150" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
@@ -82,7 +82,7 @@
 
     <g transform="translate(48, 208)">
       <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
-      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">BACKEND & WEB</text>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">BACKEND &amp; WEB</text>
     </g>
     
       <rect x="240.0" y="216" width="105.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
@@ -107,7 +107,7 @@
 
     <g transform="translate(48, 274)">
       <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
-      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">DATA & INFRA</text>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">DATA &amp; INFRA</text>
     </g>
     
       <rect x="240.0" y="282" width="114.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
