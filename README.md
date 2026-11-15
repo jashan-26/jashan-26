@@ -1,86 +1,50 @@
-<div align="center">
-
-<!-- ━━━ 1. MAIN PROFILE BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" /><img width="100%" src="./assets/header-dark.svg" alt="Jashanpreet Kaur — software and AI/ML engineer" /></picture>
 
 <p align="center">
-  <img src="./assets/section_header.png" width="100%" alt="Jashanpreet Kaur — AI & Machine Learning Undergrad | Aspiring AI Engineer | Public Collaboration Head @Emergians"/>
+  <a href="https://linkedin.com/in/jashanpreet-k-13a326340/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-jashanpreet--k-f0a35b?style=flat-square&labelColor=0b0c10&logo=linkedin&logoColor=f3efe6" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/linkedin-jashanpreet--k-ee8a3c?style=flat-square&labelColor=16151a&logo=linkedin&logoColor=faf8f3" /><img height="28" src="https://img.shields.io/badge/linkedin-jashanpreet--k-f0a35b?style=flat-square&labelColor=0b0c10&logo=linkedin&logoColor=f3efe6" alt="LinkedIn — jashanpreet-k" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/jashan-26"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/github-jashan--26-f0a35b?style=flat-square&labelColor=0b0c10&logo=github&logoColor=f3efe6" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/github-jashan--26-ee8a3c?style=flat-square&labelColor=16151a&logo=github&logoColor=faf8f3" /><img height="28" src="https://img.shields.io/badge/github-jashan--26-f0a35b?style=flat-square&labelColor=0b0c10&logo=github&logoColor=f3efe6" alt="GitHub — jashan-26" /></picture></a>
 </p>
 
-<!-- ━━━ 2. ABOUT ME ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<a id="about-me"></a>
-<p align="center">
-  <img src="./assets/section_about.png" width="100%" alt="About Me"/>
-</p>
-
-<!-- ━━━ 3. FEATURED PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<a id="featured-projects"></a>
-<p align="center">
-  <img src="./assets/section_projects.png" width="100%" alt="Featured Projects"/>
-</p>
-
-<!-- Clickable Project Repository Cards -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/jashan-26/Autonomous-Social-Media-Content-Creator-Scheduler">Autonomous Social Media Content Creator &amp; Scheduler</a></h3>
-      <p>AI-powered content creation and automated scheduling system using Generative AI.</p>
-      <code>Python</code> <code>Streamlit</code> <code>GenAI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/jashan-26/SmartSpend-AI">SmartSpend AI</a></h3>
-      <p>Personal expense analyzer and budgeting application with ML-based predictive insights.</p>
-      <code>Python</code> <code>Machine Learning</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌀 <a href="https://github.com/jashan-26/cyclone-intensity-classifier">Cyclone Intensity Classifier</a></h3>
-      <p>AI/ML system to accurately classify tropical cyclone patterns using satellite data.</p>
-      <code>Python</code> <code>PyTorch</code> <code>EfficientNet</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/jashan-26/MedSight">MedSight</a></h3>
-      <p>Deep learning medical image screening with Grad-CAM visual interpretability.</p>
-      <code>Python</code> <code>Deep Learning</code> <code>Grad-CAM</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ━━━ 4. TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<a id="tech-stack"></a>
-<p align="center">
-  <img src="./assets/section_tech.png" width="100%" alt="Tech Stack"/>
-</p>
-
-<br/>
-
-<!-- ━━━ 5. CONTACT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<a id="contact"></a>
-<p align="center">
-  <img src="./assets/section_contact.png" width="100%" alt="Contact — Let's connect and build something impactful together."/>
-</p>
-
-<!-- Clickable Contact Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jashanpreet-k-13a326340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jashanpreet_Kaur-A8E6CF?style=for-the-badge&logo=linkedin&logoColor=25212B" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jashan-26" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jashan--26-FCD2DC?style=for-the-badge&logo=github&logoColor=25212B" alt="GitHub"/>
-  </a>
-</p>
-
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" /><img width="100%" src="./assets/stats-dark.svg" alt="3 patent applications · 4 selected builds · 3 hackathons · AWS Certified Cloud Practitioner" /></picture>
 
 <p align="center">
-  <sub>Designed with retro pixel-art aesthetic · © Jashanpreet Kaur</sub>
+  <sub>B.Tech Artificial Intelligence & Machine Learning · Chandigarh Engineering College, CGC Landran · 2024–2028</sub>
 </p>
 
-</div>
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s01-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/s01-light.svg" /><img width="100%" src="./assets/s01-dark.svg" alt="Selected builds" /></picture>
+
+<p align="center">
+<a href="https://github.com/jashan-26/Autonomous-Social-Media-Content-Creator-Scheduler"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-social-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/p-social-light.svg" /><img width="49%" src="./assets/p-social-dark.svg" alt="Autonomous Content Creator & Scheduler" /></picture></a>
+&nbsp;
+<a href="https://github.com/jashan-26/cyclone-intensity-classifier"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-cyclone-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/p-cyclone-light.svg" /><img width="49%" src="./assets/p-cyclone-dark.svg" alt="Cyclone Intensity Classifier" /></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/jashan-26/SmartSpend-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-smartspend-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/p-smartspend-light.svg" /><img width="49%" src="./assets/p-smartspend-dark.svg" alt="SmartSpend AI" /></picture></a>
+&nbsp;
+<a href="https://github.com/jashan-26/MedSight"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-medsight-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/p-medsight-light.svg" /><img width="49%" src="./assets/p-medsight-dark.svg" alt="MedSight" /></picture></a>
+</p>
+
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s02-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/s02-light.svg" /><img width="100%" src="./assets/s02-dark.svg" alt="Inventions" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/patents-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/patents-light.svg" /><img width="100%" src="./assets/patents-dark.svg" alt="Three patent applications & innovations: AI Driven Nano Bio Eco Tree; NeuroScan Helmet; CARHSRS" /></picture>
+
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s03-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/s03-light.svg" /><img width="100%" src="./assets/s03-dark.svg" alt="Recognition" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/recognition-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/recognition-light.svg" /><img width="100%" src="./assets/recognition-dark.svg" alt="Recognition: SheFi Season 16 Scholar; AWS Certified Cloud Practitioner; Smart India Hackathon Finalist; Emergence Club Public Collaboration Head; Technical Hackathons" /></picture>
+
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s04-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/s04-light.svg" /><img width="100%" src="./assets/s04-dark.svg" alt="Toolkit" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg" /><img width="100%" src="./assets/toolkit-dark.svg" alt="Toolkit: Python, C++, PyTorch, TensorFlow, scikit-learn, FastAPI, Streamlit, Gradio, MySQL, MongoDB, AWS, Git" /></picture>
+
+<br />
+
+<a href="https://github.com/jashan-26"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" /><img width="100%" src="./assets/footer-dark.svg" alt="Thanks for stopping by — github.com/jashan-26" /></picture></a>
