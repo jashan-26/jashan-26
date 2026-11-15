@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+  <rect width="1200" height="440" fill="#1A1826"/>
+  <rect x="16" y="16" width="1168" height="408" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+  
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="42" rx="14" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+  <!-- Traffic light dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <g transform="translate(104, 26)">
+      <circle cx="9" cy="9" r="4" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <ellipse cx="9" cy="9" rx="10" ry="4" fill="none" stroke="#25212B" stroke-width="1.2" transform="rotate(30 9 9)"/>
+    </g>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">inventions_and_patents.doc</text>
+  <!-- Window buttons [-] [□] [✕] -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  
+    <!-- Row I -->
+    <g transform="translate(48, 80)">
+      <!-- Roman pill -->
+      <rect x="0" y="4" width="36" height="36" rx="8" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="18" y="27" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">I</text>
+
+      <!-- Title & Details -->
+      <text x="50" y="22" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#25212B">AI DRIVEN NANO BIO ECO TREE</text>
+      <text x="50" y="42" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#584D60">Self-Sustaining Environment Intelligence System · AI Controller, Nano-MOF & Swarm Coordination</text>
+      <text x="50" y="62" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Prototype verified: Nano-MOF CO2 capture, HEPA purification, water harvesting & solar/piezo renewable power.</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="1039.0" y="92" width="113.0" height="26" rx="13" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1095.5" y="109" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">clean-tech</text>
+
+    <line x1="48" y1="180" x2="1152" y2="180" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <!-- Row II -->
+    <g transform="translate(48, 192)">
+      <!-- Roman pill -->
+      <rect x="0" y="4" width="36" height="36" rx="8" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="18" y="27" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">II</text>
+
+      <!-- Title & Details -->
+      <text x="50" y="22" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#25212B">NEUROSCAN HELMET</text>
+      <text x="50" y="42" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#584D60">AI-Assisted Cranial Trauma Screening · Non-Ionizing Acoustic Ultrasound Transducer Arrays</text>
+      <text x="50" y="62" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Rapid on-field diagnostic helmet screening for suspected skull fractures & intracranial injury.</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="1064.5" y="204" width="87.5" height="26" rx="13" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1108.2" y="221" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">medtech</text>
+
+    <line x1="48" y1="292" x2="1152" y2="292" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <!-- Row III -->
+    <g transform="translate(48, 304)">
+      <!-- Roman pill -->
+      <rect x="0" y="4" width="36" height="36" rx="8" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="18" y="27" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">III</text>
+
+      <!-- Title & Details -->
+      <text x="50" y="22" font-family="'Courier New', monospace" font-size="17" font-weight="bold" fill="#25212B">CARHSRS PROPULSION HEALTH</text>
+      <text x="50" y="42" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#584D60">Cognitive Autonomous Rocket Engine Health Management · Predictive Propulsion Diagnostics</text>
+      <text x="50" y="62" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Telemetry-driven anomaly forecasting and automated parameter adjustments for aerospace rocket engines.</text>
+    </g>
+
+    <!-- Tag -->
+    <rect x="1022.0" y="316" width="130.0" height="26" rx="13" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1087.0" y="333" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">aerospace ai</text>
+
+    <line x1="48" y1="404" x2="1152" y2="404" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <g transform="translate(1156,75)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>

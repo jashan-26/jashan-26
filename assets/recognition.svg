@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480">
+  <rect width="1200" height="480" fill="#1A1826"/>
+  <rect x="16" y="16" width="1168" height="448" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+  
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="42" rx="14" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+  <!-- Traffic light dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <g transform="translate(104, 26)">
+      <path d="M4 2H14V8C14 11 11 13 9 13C7 13 4 11 4 8V2Z" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+    </g>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">achievements_and_leadership.exe</text>
+  <!-- Window buttons [-] [□] [✕] -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  
+    <g transform="translate(48, 76)">
+      <circle cx="10" cy="18" r="4" fill="#A8E6CF" stroke="#25212B" stroke-width="1.5"/>
+      <text x="28" y="22" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">SheFi Scholar (Season 16)</text>
+      <text x="28" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Global Web3 & Frontier Technology Leadership Scholar</text>
+    </g>
+
+    <rect x="1043.0" y="86" width="109.0" height="26" rx="13" fill="#FCD2DC" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1097.5" y="103" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">Fellowship</text>
+
+    <line x1="48" y1="141" x2="1152" y2="141" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 152)">
+      <circle cx="10" cy="18" r="4" fill="#A8E6CF" stroke="#25212B" stroke-width="1.5"/>
+      <text x="28" y="22" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">AWS Certified Cloud Practitioner</text>
+      <text x="28" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Amazon Web Services Official Cloud Architecture Certification</text>
+    </g>
+
+    <rect x="1017.5" y="162" width="134.5" height="26" rx="13" fill="#FCD2DC" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1084.8" y="179" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">Certification</text>
+
+    <line x1="48" y1="217" x2="1152" y2="217" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 228)">
+      <circle cx="10" cy="18" r="4" fill="#A8E6CF" stroke="#25212B" stroke-width="1.5"/>
+      <text x="28" y="22" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">Smart India Hackathon (SIH)</text>
+      <text x="28" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">National Finalist & Participant · AI/ML Solution Domain</text>
+    </g>
+
+    <rect x="983.5" y="238" width="168.5" height="26" rx="13" fill="#FCD2DC" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1067.8" y="255" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">National Finalist</text>
+
+    <line x1="48" y1="293" x2="1152" y2="293" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 304)">
+      <circle cx="10" cy="18" r="4" fill="#A8E6CF" stroke="#25212B" stroke-width="1.5"/>
+      <text x="28" y="22" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">Public Collaboration Head — Emergence Club</text>
+      <text x="28" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Anchor & Event Host for GDG Cloud Chandigarh & AI Bootcamp 2K26</text>
+    </g>
+
+    <rect x="1043.0" y="314" width="109.0" height="26" rx="13" fill="#FCD2DC" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1097.5" y="331" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">Leadership</text>
+
+    <line x1="48" y1="369" x2="1152" y2="369" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 380)">
+      <circle cx="10" cy="18" r="4" fill="#A8E6CF" stroke="#25212B" stroke-width="1.5"/>
+      <text x="28" y="22" font-family="'Courier New', monospace" font-size="16" font-weight="bold" fill="#25212B">Technical Hackathons & Ideathons</text>
+      <text x="28" y="42" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#584D60">Multiple AI/ML Hackathons — Top 10 Finishes in Computer Vision & GenAI</text>
+    </g>
+
+    <rect x="1026.0" y="390" width="126.0" height="26" rx="13" fill="#FCD2DC" stroke="#25212B" stroke-width="1.2"/>
+    <text x="1089.0" y="407" text-anchor="middle" font-family="'Courier New', monospace" font-size="11.5" font-weight="bold" fill="#25212B">Competitions</text>
+
+    <line x1="48" y1="445" x2="1152" y2="445" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <g transform="translate(1156,75)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>

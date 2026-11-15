@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <rect width="1200" height="200" fill="#1A1826"/>
+  <rect x="16" y="16" width="1168" height="168" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+  
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="42" rx="14" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+  <!-- Traffic light dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <g transform="translate(104, 26)">
+      <rect x="0" y="2" width="18" height="18" rx="3" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <line x1="4" y1="14" x2="8" y2="8" stroke="#25212B" stroke-width="1.5"/>
+      <line x1="8" y1="8" x2="12" y2="12" stroke="#25212B" stroke-width="1.5"/>
+      <line x1="12" y1="12" x2="16" y2="6" stroke="#25212B" stroke-width="1.5"/>
+    </g>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">stats_overview.exe</text>
+  <!-- Window buttons [-] [□] [✕] -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  
+    <line x1="310" y1="80" x2="310" y2="175" stroke="#F6ADC0" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <line x1="600" y1="80" x2="600" y2="175" stroke="#F6ADC0" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <line x1="890" y1="80" x2="890" y2="175" stroke="#F6ADC0" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  
+    <g transform="translate(60, 80)">
+      <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">03</text>
+      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Patent Applications</text>
+      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">filed & innovations</text>
+    </g>
+    <g transform="translate(350, 80)">
+      <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">04</text>
+      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Major AI/ML Builds</text>
+      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">end-to-end systems</text>
+    </g>
+    <g transform="translate(640, 80)">
+      <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">03</text>
+      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Hackathons & Honours</text>
+      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">SIH finalist · SheFi S16</text>
+    </g>
+    <g transform="translate(930, 80)">
+      <text x="0" y="38" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="bold" fill="#25212B">#AWS</text>
+      <text x="0" y="66" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" fill="#25212B">Cloud Practitioner</text>
+      <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#584D60">Amazon Web Services</text>
+    </g>
+  <g transform="translate(1140,75)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>

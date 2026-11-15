@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <rect width="1200" height="360" fill="#1A1826"/>
+  <rect x="16" y="16" width="1168" height="328" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+  
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="42" rx="14" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+  <!-- Traffic light dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <text x="104" y="42" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#25212B">&lt;/&gt;</text>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">tech_stack_toolkit.exe</text>
+  <!-- Window buttons [-] [□] [✕] -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  
+    <g transform="translate(48, 76)">
+      <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">LANGUAGES</text>
+    </g>
+    
+      <rect x="240.0" y="84" width="78.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="279.0" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Python</text>
+
+      <rect x="328.0" y="84" width="33.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="344.5" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">C</text>
+
+      <rect x="371.0" y="84" width="51.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="396.5" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">C++</text>
+
+      <rect x="432.0" y="84" width="51.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="457.5" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">SQL</text>
+
+      <rect x="493.0" y="84" width="114.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="550.0" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">JavaScript</text>
+
+      <rect x="617.0" y="84" width="96.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="665.0" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">HTML/CSS</text>
+
+    <line x1="48" y1="132" x2="1152" y2="132" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 142)">
+      <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">ML & AI</text>
+    </g>
+    
+      <rect x="240.0" y="150" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="283.5" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">PyTorch</text>
+
+      <rect x="337.0" y="150" width="114.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="394.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">TensorFlow</text>
+
+      <rect x="461.0" y="150" width="132.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="527.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">scikit-learn</text>
+
+      <rect x="603.0" y="150" width="78.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="642.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">OpenCV</text>
+
+      <rect x="691.0" y="150" width="132.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="757.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Hugging Face</text>
+
+      <rect x="833.0" y="150" width="69.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="867.5" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">GenAI</text>
+
+      <rect x="912.0" y="150" width="96.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="960.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Grad-CAM</text>
+
+      <rect x="1018.0" y="150" width="132.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="1084.0" y="171" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">EfficientNet</text>
+
+    <line x1="48" y1="198" x2="1152" y2="198" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 208)">
+      <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">BACKEND & WEB</text>
+    </g>
+    
+      <rect x="240.0" y="216" width="105.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="292.5" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Streamlit</text>
+
+      <rect x="355.0" y="216" width="78.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="394.0" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Gradio</text>
+
+      <rect x="443.0" y="216" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="486.5" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">FastAPI</text>
+
+      <rect x="540.0" y="216" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="583.5" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Node.js</text>
+
+      <rect x="637.0" y="216" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="680.5" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Express</text>
+
+      <rect x="734.0" y="216" width="69.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="768.5" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">React</text>
+
+    <line x1="48" y1="264" x2="1152" y2="264" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <g transform="translate(48, 274)">
+      <rect x="0" y="8" width="165" height="32" rx="16" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+      <text x="82" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">DATA & INFRA</text>
+    </g>
+    
+      <rect x="240.0" y="282" width="114.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="297.0" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">PostgreSQL</text>
+
+      <rect x="364.0" y="282" width="87.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="407.5" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">MongoDB</text>
+
+      <rect x="461.0" y="282" width="69.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="495.5" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">MySQL</text>
+
+      <rect x="540.0" y="282" width="51.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="565.5" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Git</text>
+
+      <rect x="601.0" y="282" width="150.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="676.0" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">GitHub Actions</text>
+
+      <rect x="761.0" y="282" width="51.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="786.5" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">AWS</text>
+
+      <rect x="822.0" y="282" width="69.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="856.5" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">NumPy</text>
+
+      <rect x="901.0" y="282" width="78.0" height="32" rx="16" fill="#FFFFFF" stroke="#F6ADC0" stroke-width="1.5"/>
+      <text x="940.0" y="303" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Pandas</text>
+
+    <line x1="48" y1="330" x2="1152" y2="330" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <g transform="translate(1156,75)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>

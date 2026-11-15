@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380">
+  <rect width="600" height="380" fill="#1A1826"/>
+  <rect x="16" y="16" width="568" height="348" rx="16" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+
+  <!-- Top bar -->
+  <rect x="16" y="16" width="568" height="38" rx="16" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="34" width="568" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="54" x2="584" y2="54" stroke="#25212B" stroke-width="2"/>
+  <circle cx="38" cy="35" r="6" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="56" cy="35" r="6" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="74" cy="35" r="6" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <text x="96" y="40" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#25212B">01 · LLM · AUTOMATION</text>
+  <!-- Link arrow -->
+  <path d="M556 28H566V38M566 28L554 40" stroke="#25212B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Icon box -->
+  <g transform="translate(36, 76)">
+    <rect x="0" y="0" width="46" height="46" rx="10" fill="#FCD2DC" stroke="#25212B" stroke-width="1.8"/>
+    
+      <rect x="4" y="4" width="34" height="24" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.5"/>
+      <path d="M8 20L15 13L21 18L32 9" stroke="#25212B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M17 28V33M11 33H23" stroke="#25212B" stroke-width="1.8" stroke-linecap="round"/>
+
+  </g>
+
+  <!-- Title & Stack -->
+  <text x="96" y="96" font-family="'Courier New', monospace" font-size="19" font-weight="bold" fill="#25212B">Autonomous Scheduler</text>
+  <text x="96" y="118" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#584D60">Python · Streamlit · GenAI</text>
+
+  <line x1="36" y1="145" x2="564" y2="145" stroke="#F6ADC0" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Description -->
+  <text x="36" y="210" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" fill="#584D60">AI-powered multi-platform content creation and scheduling</text><text x="36" y="234" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" fill="#584D60">system synthesizing targeted posts, hashtags, and media</text><text x="36" y="258" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" fill="#584D60">calendars autonomously using Generative AI.</text>
+
+  <!-- Tag pills -->
+  
+    <rect x="36.0" y="318" width="109.0" height="28" rx="14" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.5"/>
+    <text x="90.5" y="337" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">solo build</text>
+
+    <rect x="155.0" y="318" width="66.5" height="28" rx="14" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.5"/>
+    <text x="188.2" y="337" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">GenAI</text>
+
+    <rect x="231.5" y="318" width="100.5" height="28" rx="14" fill="#FCD2DC" stroke="#F6ADC0" stroke-width="1.5"/>
+    <text x="281.8" y="337" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#25212B">Streamlit</text>
+
+
+  <g transform="translate(552,80)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>

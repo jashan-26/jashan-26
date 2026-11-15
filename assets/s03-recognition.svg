@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 74" width="1200" height="74">
+  <rect width="1200" height="74" fill="#1A1826"/>
+  <rect x="16" y="16" width="1168" height="42" rx="14" fill="#FFF5F0" stroke="#25212B" stroke-width="2.5"/>
+  
+  <!-- Title bar -->
+  <rect x="16" y="16" width="1168" height="44" rx="14" fill="#A8E6CF" stroke="#25212B" stroke-width="2.5"/>
+  <rect x="16" y="38" width="1168" height="20" fill="#A8E6CF"/>
+  <line x1="16" y1="58" x2="1184" y2="58" stroke="#25212B" stroke-width="2"/>
+  <!-- Traffic light dots -->
+  <circle cx="42" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="64" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <circle cx="86" cy="38" r="7" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+  <g transform="translate(104, 26)">
+          <path d="M4 2H14V8C14 11 11 13 9 13C7 13 4 11 4 8V2Z" fill="#FCD2DC" stroke="#25212B" stroke-width="1.5"/>
+          <path d="M4 4H1V7C1 8.5 2.5 9 4 9" stroke="#25212B" stroke-width="1.5" fill="none"/>
+          <path d="M14 4H17V7C17 8.5 15.5 9 14 9" stroke="#25212B" stroke-width="1.5" fill="none"/>
+          <line x1="9" y1="13" x2="9" y2="16" stroke="#25212B" stroke-width="1.5"/>
+          <rect x="5" y="16" width="8" height="2" fill="#25212B"/>
+        </g>
+  <text x="136" y="44" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#25212B">§ 03  Recognition & Honours</text>
+  <!-- Window buttons [-] [□] [✕] -->
+  <g transform="translate(1104, 30)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="4" y1="8" x2="12" y2="8" stroke="#25212B" stroke-width="1.5"/>
+    <rect x="24" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <rect x="28" y="4" width="8" height="8" stroke="#25212B" stroke-width="1.2" fill="none"/>
+    <rect x="48" y="0" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="52" y1="4" x2="60" y2="12" stroke="#25212B" stroke-width="1.2"/>
+    <line x1="60" y1="4" x2="52" y2="12" stroke="#25212B" stroke-width="1.2"/>
+  </g>
+
+  <g transform="translate(1130,26)">
+    <path d="M5.0 0 L6.0 4.0 L10 5.0 L6.0 6.0 L5.0 10 L4.0 6.0 L0 5.0 L4.0 4.0 Z" fill="#FCD2DC" opacity="0.85"/>
+  </g>
+</svg>
