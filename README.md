@@ -29,7 +29,7 @@ Aggressively curious, mildly caffeinated, and permanently dedicated to building 
 <p align="center">
 <a href="https://linkedin.com/in/jashanpreet-k-13a326340" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
 <a href="https://github.com/jashan-26" target="_blank"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github"></a>
-<a href="mailto:jashanpreetkaur2605@gmail.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
+<a href="mailto:jashanpreet.kaur.inn@gmail.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
